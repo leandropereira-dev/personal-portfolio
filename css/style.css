@@ -138,6 +138,7 @@ button:hover {
   background: #011b38;
   color: #ffffff;
   border: solid 1px #b3b3b3;
+  cursor: pointer;
 }
 
 /* Estilização da seção habilidades*/
