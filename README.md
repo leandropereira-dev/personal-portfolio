@@ -13,7 +13,7 @@ Este projeto tem como objetivo apresentar meu trabalho, experiência e habilidad
 
 ## Como Usar
 
-clone este repositório em sua máquina, depois abra o arquivo `index.html` no seu navegador para visualizar localmente.
+Clone este repositório em sua máquina, depois abra o arquivo `index.html` no seu navegador para visualizar localmente.
 
 ```bash
 git clone https://github.com/leandropereira-dev/personal-portfolio.git
