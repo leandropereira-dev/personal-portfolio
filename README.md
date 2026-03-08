@@ -1,6 +1,6 @@
 ![Captura de Tela do Meu Site](img/print-site.png)
 # Portfólio Pessoal
-Este é o repositório do meu site de portfólio pessoal, onde compartilho informações sobre mim, meus projetos e habilidades. O site foi desenvolvido utilizando HTML, CSS e JavaScript.
+Este é o repositório do meu site de portfólio pessoal, onde compartilho informações sobre mim, meus projetos e habilidades. O site foi desenvolvido utilizando HTML, CSS e JavaScript. (A responsividade será adicionada posteriormente.)
 
 ## Visão Geral
 
