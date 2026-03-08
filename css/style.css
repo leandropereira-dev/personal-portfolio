@@ -203,8 +203,8 @@ hr {
 
 .formacao {
   background-color: #011124;
-  width: 600px;
-  height: 450px;
+  width: auto;
+  height: auto;
   border-radius: 5px;
   padding: 20px 50px;
   display: block;
@@ -218,10 +218,10 @@ hr {
 }
 
 .formacao p {
-  color: #b3b3b3;
-  font-size: 0.801rem;
+  color: #b2b2b2;
+  font-size: 0.901rem;
   font-family: "Libre Baskerville", serif;
-  line-height: 1.3rem;
+  line-height: 1.6rem;
 }
 
 /*Estilização da seção sobre*/
